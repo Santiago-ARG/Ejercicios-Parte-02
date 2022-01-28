@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="Ejercicios_Parte02.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DespachadorRefrescos.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="DespachadorRefrescos.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="DespachadorRefrescos.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Tren_ModeloMoore.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Tren_ModeloMoore.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Tren_ModeloMoore.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Tren_ModeloMoore.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Tren_ModeloMoore.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Tren_ModeloMoore.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Tren_ModeloMoore_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Tren_ModeloMoore_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Tren_ModeloMoore_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1641183406" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1641183406">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641183406" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="7731849613112088251" xil_pn:start_ts="1641183406">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641183406" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-1097822064386682398" xil_pn:start_ts="1641183406">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641183406" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1641183406">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641183407" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-3675275493460444579" xil_pn:start_ts="1641183406">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641183407" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="3206529612922900429" xil_pn:start_ts="1641183407">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641183407" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-5679198182017746964" xil_pn:start_ts="1641183407">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641183562" xil_pn:in_ck="1106203613568366410" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="-6635937937283672343" xil_pn:start_ts="1641183554">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="Tren_ModeloMoore.lso"/>
+      <outfile xil_pn:name="Tren_ModeloMoore.prj"/>
+      <outfile xil_pn:name="Tren_ModeloMoore.syr"/>
+      <outfile xil_pn:name="Tren_ModeloMoore.xst"/>
+      <outfile xil_pn:name="Tren_ModeloMoore_xst.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>

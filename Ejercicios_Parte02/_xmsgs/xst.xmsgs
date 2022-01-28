@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="806" delta="old" >"C:\Santiago-ARG\Tercer Ciclo\Arquitectura de Ordenadores\CodigoU2\Ejercicios_Parte02\DespachadorRefrescos.vhd" Line 26: Syntax error near &quot;<arg fmt="%s" index="1">end</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="new" >"C:\Santiago-ARG\Tercer Ciclo\Arquitectura de Ordenadores\CodigoU2\Ejercicios_Parte02\DespachadorRefrescos.vhd" Line 28: Syntax error near &quot;<arg fmt="%s" index="1">)</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="old" >"C:\Santiago-ARG\Tercer Ciclo\Arquitectura de Ordenadores\CodigoU2\Ejercicios_Parte02\DespachadorRefrescos.vhd" Line 29: &lt;<arg fmt="%s" index="1">estados</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="old" >"C:\Santiago-ARG\Tercer Ciclo\Arquitectura de Ordenadores\CodigoU2\Ejercicios_Parte02\DespachadorRefrescos.vhd" Line 30: Syntax error near &quot;<arg fmt="%s" index="1">begin</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="32" delta="new" >"C:\Santiago-ARG\Tercer Ciclo\Arquitectura de Ordenadores\CodigoU2\Ejercicios_Parte02\DespachadorRefrescos.vhd" Line 31: &lt;<arg fmt="%s" index="1">mp</arg>&gt; is already declared in this region.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="new" >"C:\Santiago-ARG\Tercer Ciclo\Arquitectura de Ordenadores\CodigoU2\Ejercicios_Parte02\DespachadorRefrescos.vhd" Line 31: Syntax error near &quot;<arg fmt="%s" index="1">)</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="new" >"C:\Santiago-ARG\Tercer Ciclo\Arquitectura de Ordenadores\CodigoU2\Ejercicios_Parte02\DespachadorRefrescos.vhd" Line 36: &lt;<arg fmt="%s" index="1">fut</arg>&gt; is not declared.
+</msg>
+
+</messages>
+
